@@ -1,0 +1,23 @@
+<style>
+
+a:link{
+  color:hotpink; 
+}
+a:visited{
+
+	color:hotpink; 
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  color: blue;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h1 {
+  color: purple;
+  font-family: 'Montserrat', sans-serif;
+}
+</style>
