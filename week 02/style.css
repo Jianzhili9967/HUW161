@@ -1,0 +1,50 @@
+/*this title is for information about the main title*/
+
+h1{
+  	font-size: 36px;
+    text-transform: uppercase;
+    font-family: 'Merienda', cursive;
+    font-weight:bold;
+  }
+
+h2{
+font-family: 'Merienda', sans-serif;
+font-weight: Regular;
+font-size: 14px;
+line-height: 24px;
+text-transform: uppercase;
+}
+/*this title is for information about the font choice*/
+h3{
+font-size: 13px;
+color:#cdcdcd;
+line-height: 10px;
+margin-left: -20%;
+}
+/*paragraph text*/
+p{
+font-family: "Karla";
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+  }
+
+
+
+
+/*ignore things below for now*/
+.row {
+  display: flex;
+}
+
+.column {
+/*   flex: 33%;*/
+ padding-left: 30%;
+padding-right: 30%;
+
+}
+div{
+  column-count:1;
+   column-fill: inherit;
+  column-width:30%;
+}
